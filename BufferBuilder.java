@@ -1,5 +1,7 @@
 package StringEx;
 
+// Example for String buffer and String Builder
+
 public class BufferBuilder {
 
 	public static void main(String[] args) {
