@@ -1,5 +1,8 @@
 package OOPS;
 
+// Program to find Factorial using loop
+// Program to count the number of '6' s in given number (100)
+
 import java.util.Scanner;
 
 public class FactorialEx {
