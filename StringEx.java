@@ -1,5 +1,7 @@
 package StringEx;
 
+// Some String work-examples I did
+
 public class StringEx {
 
 	// String is immuatable, it means u cant do S++
