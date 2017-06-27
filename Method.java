@@ -1,5 +1,8 @@
 package com.arraysum;
 
+// Progam to call methods in a class
+// Calls static methods too 
+
 public class Method {
 	static int c = 9;
 	int x = 2;
