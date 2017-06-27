@@ -1,5 +1,8 @@
 package FinalEx;
 
+// Call method to change value of PI, throws error
+// Final keyword variables cannot change in Value throughout the program execution
+
 public class FinalEx {
 	
 	// FINAL keyword means, the value can never be changed
