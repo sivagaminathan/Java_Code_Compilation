@@ -38,6 +38,7 @@ public class FileReadWrite {
 			e.printStackTrace();
 		}
 		
+		// Always executes
 		finally {
 			System.out.println("Printing Stack");
 			while(!st.isEmpty()){
