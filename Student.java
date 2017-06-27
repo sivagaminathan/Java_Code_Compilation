@@ -1,5 +1,8 @@
 package OOPS;
 
+// Class Student used to set and get values 
+// Used in Client.java program
+
 public class Student {
 	private String Name;
 	private String Address;
