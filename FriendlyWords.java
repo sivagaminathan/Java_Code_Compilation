@@ -1,4 +1,7 @@
 package com.arraysum;
+// HASHMAP solution to finding anagrams of given string 
+// Displays the strings in sorted order
+
 
 import java.util.ArrayList;
 import java.util.Arrays;
