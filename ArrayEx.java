@@ -1,5 +1,7 @@
 package OOPS;
 
+// Simple array example 
+
 public class ArrayEx {
 
 	public void display(int a[]) {
