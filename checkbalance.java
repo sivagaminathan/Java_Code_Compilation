@@ -2,6 +2,11 @@ package InterviewStuff;
 
 import java.util.Stack;
 
+// THIS PROGRAM CHECKS IF GIVEN {} or () or [] is balanced
+// Example for balanced : {sara}nya()ia[va]
+// Example for unbalanced : {sar(nya}h)
+
+
 public class checkbalance {
 
 	public static String s = "s{ara[n(ya}bl)ah]";
