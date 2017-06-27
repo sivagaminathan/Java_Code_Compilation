@@ -1,6 +1,8 @@
 package Client;
 
 import OOPS.Student;
+// Uses Student Class and methods to set values for Student object
+
 
 public class Client {
 
