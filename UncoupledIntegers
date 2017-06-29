@@ -1,0 +1,25 @@
+package com.hackerrankinterview;
+
+import java.util.HashMap;
+import java.util.Scanner;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
+import java.io.*;
+
+public class uncoupledintegers {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc = new Scanner(System.in).useDelimiter(", ");
+		int i=0;
+		int val=0;
+		
+		while(sc.hasNext()){
+			val = val ^ sc.nextInt();
+		}
+		System.out.println(val);
+	
+	}
+
+}
